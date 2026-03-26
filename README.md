@@ -13,3 +13,6 @@ function orderWeight(strng) {
 ```
 
 [KATA](https://www.codewars.com/kata/55c6126177c9441a570000cc/javascript)
+<br>
+
+[Medium](https://medium.com/@juneee/codewars-weight-for-weight-javascript-d09ba232ff63)
